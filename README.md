@@ -34,6 +34,7 @@
 [![odoo](https://img.shields.io/badge/odoo-714B67?style=flat&logo=odoo&logoColor=white)](https://odoo.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)](https://TailwindCSS.com/)
 [![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://bootstrap.com/)
+[![wordpress](https://img.shields.io/badge/wordpress-21759B3?style=flat&logo=wordpress&logoColor=white)](https://wordpress.com/)
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
